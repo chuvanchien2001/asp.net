@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap12", "BaiTap12.csproj", "{7BB3FB60-877E-438C-89FE-6E36979A7945}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "wwwroot", "wwwroot", "{39632BD8-B3EC-42D1-8175-BD5D4CDA86B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{EAEC360B-F3B5-4D68-AFC3-0FCFFE3CD1FD}"
+	ProjectSection(SolutionItems) = preProject
+		wwwroot\images\1.jpg = wwwroot\images\1.jpg
+		wwwroot\images\2.jpg = wwwroot\images\2.jpg
+		wwwroot\images\3.jpg = wwwroot\images\3.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BB3FB60-877E-438C-89FE-6E36979A7945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB3FB60-877E-438C-89FE-6E36979A7945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB3FB60-877E-438C-89FE-6E36979A7945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB3FB60-877E-438C-89FE-6E36979A7945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EAEC360B-F3B5-4D68-AFC3-0FCFFE3CD1FD} = {39632BD8-B3EC-42D1-8175-BD5D4CDA86B9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EACD6221-125C-460E-89F9-B6F9551653B5}
+	EndGlobalSection
+EndGlobal
